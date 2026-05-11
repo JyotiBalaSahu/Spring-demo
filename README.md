@@ -1,2 +1,7 @@
 # Spring-demo
-First Test Spring project
+A small Spring based API development project
+
+#functionalities
+-addUser
+-DeleteUser
+-findbyEmailId
